@@ -6,5 +6,5 @@ basic blockchain wallet using flutter
 
 | Phone Auth | Device location | Sync data from mobile to Air Quality Device | 
 |--|--|--|
-| ![Phone Auth](screenshots/home_page.png) | ![Device location](Screenshots/deposit.png) | ![Sync data from mobile to Air Quality Device](Screenshots/withdraw.png) |
+| ![Phone Auth](screenshots/home_page.png) | ![Device location](screenshots/deposit.png) | ![Sync data from mobile to Air Quality Device](screenshots/withdraw.png) |
 
